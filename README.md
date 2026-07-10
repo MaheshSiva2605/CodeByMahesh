@@ -110,10 +110,4 @@ me.say_hi()
 
 ---
 
-### 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://www.instagram.com/_mahesh_18?igsh=eHBhd3Roc3BycGEw&utm_source=qr"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-</p>
-
 <p align="center"><i>⭐️ Thanks for visiting my profile — feel free to explore my repos and connect!</i></p>
