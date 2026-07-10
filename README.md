@@ -62,8 +62,6 @@ me.say_hi()
 
 ---
 
----
-
 ### 💬 Quote of the Day
 
 <p align="center">
@@ -83,8 +81,6 @@ me.say_hi()
     <td align="center">⚙️<br><b>DSA</b><br>C++ & Java practice</td>
   </tr>
 </table>
-
----
 
 ---
 
